@@ -8,7 +8,10 @@ Die original Beschreibung dieses Katas findest du hier: http://codingdojo.org/ka
 Schreibe ein Programm, welches alle aus zwei englischen Wörtern bestehenden Anagramme der 
 Zeichenkette "documenting" generiert.
 
-Die List der gültigen Wörter ist hier zu finden: [wordlist.txt](src/main/resources/wordlist.txt)
+Die [Main-Klasse](src/main/java/AnagramMain.java) ist bereits vorhanden. Diese liest die 
+Wortliste ein, ruft den (noch leeren) [AnagramFinder](src/main/java/AnagramFinder.java) auf 
+und gibt die Ausgabe auf die Konsole aus. 
+
 
 ## Hinweis
 
